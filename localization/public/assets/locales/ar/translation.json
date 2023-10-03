@@ -1,0 +1,5 @@
+{
+    "app_title": "معلومات عامة",
+    "welcome_to_react": "مرحبًا بك في React وreact-i18next",
+    "days_since_release": "لقد مر {{number_of_days}} يوم منذ إصدار هذا الفيديو"
+}
